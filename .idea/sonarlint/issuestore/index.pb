@@ -20,3 +20,21 @@ P
 .gitignore,a/5/a5cc2925ca8258af241be7e5b0381edf30266302
 F
 src/IPv4Identifier.php,6/3/6325d9f90c8403f1d0b1843c4ec7729b97a9e492
+K
+tests/App/MoveZerosTest.php,4/3/43cd81cd3782901b27761ad6927b0886b29cd9df
+A
+src/MoveZeros.php,b/7/b784460815a18493ed08973e0af106d9e2b4fc4e
+O
+tests/App/UniqueInOrderTest.php,a/c/acdc06602e9cfbef49974d2d650c6603cb1eda3a
+E
+src/UniqueInOrder.php,9/5/9557de4c6678fa45e9f5f36596bd0fd0cb0c4092
+I
+src/PlayingWithDigits.php,8/3/83b164d9379750256cb5a16e561251cb41fd0b85
+S
+#tests/App/PlayingWithDigitsTest.php,f/5/f58603a1f71ae8a0f6843e8a9b512785cac54fec
+E
+.phpunit.result.cache,2/d/2d329044c6b41bffeb5f66966b019084792bc4ba
+G
+src/MultiplesOf3Or5.php,f/1/f11bc8b74612ce7ad7335b8cbadfb9f7d5af12b9
+Q
+!tests/App/MultiplesOf3Or5Test.php,a/2/a2a9ec9fc55a2b97889f8578791acf2dcfcc23bd
